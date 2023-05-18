@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { Form } from "react-router-dom";
 
-export default function Contact() {
+export default function Contacts() {
   const contact = {
     first: "Your",
     last: "Name",
